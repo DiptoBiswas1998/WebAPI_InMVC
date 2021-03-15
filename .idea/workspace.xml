@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6acfa339-3133-41f7-8926-f172e450e668" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/.vs/WebApiInMVC/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/.vs/WebApiInMVC/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/.vs/WebApiInMVC/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/.vs/WebApiInMVC/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/Controllers/EmployeeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/Controllers/EmployeeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/Models/mvcEmployeeModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/Models/mvcEmployeeModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/Mvc.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/Mvc.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/Views/Employee/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/Views/Employee/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/bin/Mvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/bin/Mvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/bin/Mvc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/bin/Mvc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/obj/Debug/Mvc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/Mvc/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/Mvc/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApiInMVC/WebApi/obj/Debug/WebApi.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApiInMVC/WebApi/obj/Debug/WebApi.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pmcqGwCF082FJ9Nx1QukveBCPu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6acfa339-3133-41f7-8926-f172e450e668" name="Default Changelist" comment="" />
+      <created>1615791897958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615791897958</updated>
+    </task>
+    <servers />
+  </component>
+</project>

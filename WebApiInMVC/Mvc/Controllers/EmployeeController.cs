@@ -34,16 +34,19 @@ namespace Mvc.Controllers
             if (emp.EmployeeID == 0)
             {
                 HttpResponseMessage response = GlobalVariables.WebApiClient.PostAsJsonAsync("Employee", emp).Result;
+                TempData["SuccessMessage"] = "Saved Successfully";
             }
             else
             {
                 HttpResponseMessage response = GlobalVariables.WebApiClient.PutAsJsonAsync("Employee/"+emp.EmployeeID, emp).Result;
+                TempData["SuccessMessage"] = "Updated Successfully";
             }
             return RedirectToAction("Index");
         }
         public ActionResult Delete(int id)
         {
             HttpResponseMessage response = GlobalVariables.WebApiClient.DeleteAsync("Employee/" +id.ToString()).Result;
+            TempData["SuccessMessage"] = "Deleted Successfully";
             return RedirectToAction("Index");
         }
     }

@@ -58,3 +58,18 @@
 </table>
 
  
+@section scripts{
+    <script>
+        $(function () {
+            var successMessage = '@TempData["SuccessMessage"]'
+            if (successMessage != '')
+                alertify.success(successMessage);
+        });
+
+        function Delete(id) {
+            alertify.confirm('Web Api CRUD Operations', 'Are you sure want to Delete this record?', function () {
+                window.location.href = '@Url.Action("Delete","Employee")/' + id;
+            }, null);
+        }
+    </script>
+    }
